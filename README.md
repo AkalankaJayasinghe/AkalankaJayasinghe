@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTJ6amJxNHpkc2llcjRzOGQyZm1kYWMxNHU3aXQ2YWFwbGhweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I'm currently working on **Visit Sri Lanka**
+- 🔭 I'm currently working on **lowyer manegment system**
 - 🌱 I'm currently pursuing **HNDIT at SLIATE**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/AkalankaJayasinghe)
 - 💬 Ask me about **React, JavaScript, Web Development**
@@ -57,7 +57,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notepadplusplus/notepadplusplus-original.svg" alt="Notepad++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="NetBeans" width="40" height="40"/>
 </p>
 
@@ -74,14 +73,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akalankajayasinghe&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akalankajayasinghe&theme=blue-green&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
