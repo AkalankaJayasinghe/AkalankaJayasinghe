@@ -1,11 +1,13 @@
 # <div align="center">🌌 Welcome to the Digital Cosmos of Akalanka Jayasinghe 🌌</div>
 
+
+---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AKALANKA%20JAYASINGHE&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Code%20Architect%20%7C%20Tech%20Visionary%20%7C%20Digital%20Innovator&descAlignY=51&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=1200&height=350&lines=;🌐+FULL-STACK+DEVELOPMENT+WIZARD;;Web Developer;Laraval,MERN Stack,Java;" alt="Dynamic Professional Identity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=1200&height=350&lines=;🌐+WEB+DEVELOPER;💻+FRONTEND+DEVELOPER;⚡+FULL-STACK+DEVELOPER;🎨+UI/UX+DESIGNER;Laravel+%7C+MERN+Stack+%7C+Java;" alt="Dynamic Professional Identity" />
 </div>
 
 ---
