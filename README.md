@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=1200&height=350&lines=🚀+NEXT-GEN+SOFTWARE+ARCHITECT;💡+AI%2FML+ENGINEERING+MASTERMIND;🌐+FULL-STACK+DEVELOPMENT+WIZARD;🔐+CYBERSECURITY+%26+BLOCKCHAIN+EXPERT;☁️+CLOUD+INFRASTRUCTURE+SPECIALIST;🎯+TECH+ENTREPRENEUR+%26+INNOVATOR;⚡+TRANSFORMING+IDEAS+INTO+REALITY;🌟+BUILDING+THE+FUTURE%2C+ONE+CODE+AT+A+TIME" alt="Dynamic Professional Identity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=1200&height=350&lines=;🌐+FULL-STACK+DEVELOPMENT+WIZARD;;Web Developer;Laraval,MERN Stack,Java;" alt="Dynamic Professional Identity" />
 </div>
 
 ---
@@ -33,7 +33,7 @@ Experienced software developer from Kandy, Sri Lanka, passionate about building 
 
 ### 🗄️ Databases & Data Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div>
 
 ### ☁️ Cloud & DevOps Excellence
@@ -43,7 +43,7 @@ Experienced software developer from Kandy, Sri Lanka, passionate about building 
 
 ### 🛠️ Development Tools & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,vim,git,postman,insomnia,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,postman,,figma,photoshop" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> GitHub Performance Analytics & Insights
