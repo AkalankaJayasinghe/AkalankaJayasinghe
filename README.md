@@ -3,13 +3,17 @@
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AKALANKA%20JAYASINGHE&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Code%20Architect%20%7C%20Tech%20Visionary%20%7C%20Digital%20Innovator&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=AKALANKA%20JAYASINGHE&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Code%20Architect%20%7C%20Tech%20Visionary%20%7C%20Digital%20Innovator&descAlignY=55&descAlign=50&descSize=18"/>
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=1200&height=350&lines=;🌐+WEB+DEVELOPER;💻+FRONTEND+DEVELOPER;⚡+FULL-STACK+DEVELOPER;🎨+UI/UX+DESIGNER;Laravel+%7C+MERN+Stack+%7C+Java;" alt="Dynamic Professional Identity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=🚀+Full-Stack+Developer;🎨+UI/UX+Designer;⚡+Laravel+%7C+React+Expert;💻+MERN+Stack+Specialist;🌟+Java+Developer;✨+Digital+Innovation+Engineer" alt="Animated Tech Stack" />
 </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer"/>
+</div>
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> The Journey of Excellence
