@@ -34,7 +34,7 @@ Experienced software developer from Kandy, Sri Lanka, passionate about building 
 
 ### 🔧 Backend Development & Infrastructure
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,dotnet,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,springboot,dotnet,laravel" />
 </div>
 
 ### 🗄️ Databases & Data Technologies
