@@ -29,12 +29,12 @@ Experienced software developer from Kandy, Sri Lanka, passionate about building 
 
 ### ⚛️ Frontend Development & Modern Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind" />
 </div>
 
 ### 🔧 Backend Development & Infrastructure
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,dotnet,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,dotnet,laravel" />
 </div>
 
 ### 🗄️ Databases & Data Technologies
