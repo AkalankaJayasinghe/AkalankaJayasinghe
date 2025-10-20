@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=AKALANKA%20JAYASINGHE&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Code%20Architect%20%7C%20Tech%20Visionary%20%7C%20Digital%20Innovator&descAlignY=55&descAlign=50&descSize=18"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=🚀+Full-Stack+Developer;🎨+UI/UX+Designer;💻+MERN+Stack+Specialist;✨+Java+Developer;" alt="Animated Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=🚀+Full-Stack+Developer;🎨+UI/UX+Designer;💻+MERN+Stack+Specialist;" alt="Animated Tech Stack" />
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
