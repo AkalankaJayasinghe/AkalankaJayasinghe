@@ -1,7 +1,7 @@
 # <div align="center">🌌 Welcome to the Digital Cosmos of Akalanka Jayasinghe 🌌</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravini123&label=Profile%20views&color=0e75b6&style=flat" alt="pravini123" /> </p>
----
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=AKALANKA%20JAYASINGHE&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Code%20Architect%20%7C%20Tech%20Visionary%20%7C%20Digital%20Innovator&descAlignY=55&descAlign=50&descSize=18"/>
 </div>
