@@ -1,6 +1,6 @@
 # <div align="center">🌌 Welcome to the Digital Cosmos of Akalanka Jayasinghe 🌌</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravini123&label=Profile%20views&color=0e75b6&style=flat" alt="pravini123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravini123&label=Profile%20views&color=0e75b6&style=flat" alt="laki" /> </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=AKALANKA%20JAYASINGHE&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Code%20Architect%20%7C%20Tech%20Visionary%20%7C%20Digital%20Innovator&descAlignY=55&descAlign=50&descSize=18"/>
@@ -213,27 +213,7 @@ Experienced software developer from Kandy, Sri Lanka, passionate about building 
         </a>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <a href="https://stackoverflow.com/users/akalankajayasinghe">
-          <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16&color=FE7A16" alt="Stack Overflow"/>
-          <br/>
-          <sub><b>🤔 Problem Solving Hub</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.youtube.com/@akalankajayasinghe">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" alt="YouTube"/>
-          <br/>
-          <sub><b>📺 Tech Tutorials & Talks</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Status-Available_for_Hire-brightgreen?style=for-the-badge&logo=handshake&logoColor=white&labelColor=28a745&color=28a745" alt="Available for Hire"/>
-        <br/>
-        <sub><b>🚀 Open for Opportunities!</b></sub>
-      </td>
-    </tr>
+
   </table>
 </div>
 
